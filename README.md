@@ -14,11 +14,11 @@ How to use
    - index.html: update About text, projects list, social links, and contact email.
    - Replace `avatar.jpg` with your profile photo (or update the src).
    - Customize colors in `styles.css` (change `--accent`) or fonts.
-2. Commit these files to the `main` branch of `ranga85/rnathg.github.io`.
-3. GitHub Pages will publish the site; check https://ranga85.github.io/rnathg.github.io or the page URL for your repo's configuration.
+2. Commit these files to the `main` branch of `ranga85/rnathg`.
+3. GitHub Pages will publish the site; check https://ranga85.github.io/rnathg/ or the page URL for your repo's configuration.
 
 Next steps (pick one)
-- I can push these files directly to the repository for you (I will need permission to write). Reply "push" and confirm the repo: `ranga85/rnathg.github.io`.
+- I can push these files directly to the repository for you (I will need permission to write). Reply "push" and confirm the repo: `ranga85/rnathg`.
 - Or provide the missing content and assets:
   - Short bio (2–5 sentences)
   - Projects (name, short description, repo/live URL, optional image)
@@ -27,5 +27,5 @@ Next steps (pick one)
   and I will re-generate the files with full content filled in.
 - I can also pull your public GitHub profile (if you want me to infer projects & social links from your GitHub account) — say "infer from profile" and I'll fetch public profile info.
 
-If you'd like me to push the changes, reply with "push" to confirm `ranga85/rnathg.github.io`.
+If you'd like me to push the changes, reply with "push" to confirm `ranga85/rnathg`.
 ```
